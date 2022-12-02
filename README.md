@@ -6,6 +6,11 @@ AI Zoo keeper
 [GitHub Repository](https://github.com/karaage0703/ai_zoo_keeper)
 
 ## Zoo
+
+### Ogaki Mini Maker Faire 2022(OMMF2022)
+- [zoo_002_OMMF2022](./zoo_002_OMMF2022)
+
+### Test
 - [zoo_001](./zoo_001)
 
 ## Reference
