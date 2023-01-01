@@ -13,5 +13,11 @@ AI Zoo keeper
 ### Test
 - [zoo_001](./zoo_001)
 
+## Create Animal
+See below notebook
+
+[ai_zoo_animal_creator.ipynb](./ai_zoo_animal_creator.ipynb)
+
+
 ## Reference
 - https://qiita.com/kokorinosoba/items/3d11291ba7fa708f9994
